@@ -10,3 +10,5 @@ As always structure is:
   4) css/906_grid16_col.css - style for grid system
   
 Thank you for attention!
+
+![alt tag](images/Home.jpg)
